@@ -1,0 +1,36 @@
+type-int
+Var-a 
+Value : 20 
+assign : =
+
+type-int
+Var-b 
+Value : 10 
+assign : =
+
+type-int
+Var-c 
+Value : 15 
+assign : =
+
+type-int
+Var-d 
+Value : 5 
+assign : =
+
+type-int
+Var-e 
+
+type-int
+Var-main 
+Var-e 
+Var-a 
+Var-b 
+Var-c 
+op- * 
+Var-d 
+op- / 
+op- + 
+Completed func defined
+
+
